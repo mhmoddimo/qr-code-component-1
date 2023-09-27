@@ -34,11 +34,12 @@ body {
     border-radius: 15px;
 }
 
-.main h2 {
+.main h1 {
     font-weight: 700;
     margin-top: 20px;
     margin-bottom: 20px;
     color: var(--Dark-blue);
+    font-size: 25px;
 }
 
 .main p {
